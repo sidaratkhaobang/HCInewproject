@@ -56,6 +56,7 @@ $route['translate_uri_dashes'] = FALSE;
 $route['blog'] = 'blog';
 $route['blog_single'] = 'blog/blog_single';
 $route['about'] = 'about';
+$route['contact'] = 'contact';
 
 $route['register'] = 'register';
 $route['barcode'] = 'barcode';
