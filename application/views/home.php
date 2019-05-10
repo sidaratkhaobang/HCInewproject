@@ -1,6 +1,22 @@
 <body>
-    <section class="site-hero overlay" style="background-image: url(public/img/hero_1.jpg)">
-      <div class="container">
+    <section class="site-hero overlay">
+
+
+          <div class="js-carousel-1 owl-carousel">
+            <div class="author-image mb-3">
+              <section class="site-hero overlay" style="background-image: url(public/img/hero_1.jpg)">
+            </div>
+
+            <div class="author-image mb-3">
+              <section class="site-hero overlay" style="background-image: url(public/img/hero_1.jpg)">
+            </div>
+
+            <div class="author-image mb-3">
+              <section class="site-hero overlay" style="background-image: url(public/img/hero_1.jpg)">
+            </div>
+          </div>
+
+      <!-- <div class="container">
         <div class="row site-hero-inner align-items-center">
           <div class="col-md-7 text-left ml-auto">
             <h1 class="heading" data-aos="fade-up">I'm Your Realtor, Get Your Key</h1>
@@ -9,7 +25,7 @@
           </div>
         </div>
         <a href="#next-section" class="smoothscroll scroll-down">Scroll Down</a>
-      </div>
+      </div> -->
     </section>
     <!-- END section -->
 
