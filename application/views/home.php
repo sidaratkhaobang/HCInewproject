@@ -23,28 +23,28 @@
         <div class="row">
           <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-up">
             <a href="Mobilemoney"><img src="public/img/img_1.jpg" alt="Image placeholder" class="img-fluid rounded"> </a>
-            <h3><a href="Mobilemoney">$3,450</a></h3>
+            <h3><a href="Mobilemoney">เติมเงินมือถือ</a></h3>
             <div class="reviews-star float-left">
               46 Brookflower Rd, Houston TX
             </div>
           </div>
           <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-up" data-aos-delay="100">
             <a href="Fillthegame"><img src="public/img/img_2.jpg" alt="Image placeholder" class="img-fluid rounded"> </a>
-            <h3><a href="Fillthegame">$1,650</a></h3>
+            <h3><a href="Fillthegame">เติมเกม</a></h3>
             <div class="reviews-star float-left">
               2724 20th Ave N, Houston TX
             </div>
           </div>
           <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-up" data-aos-delay="200">
             <a href="Movieticket"><img src="public/img/img_3.jpg" alt="Image placeholder" class="img-fluid rounded"> </a>
-            <h3><a href="Movieticket">$3,200</a></h3>
+            <h3><a href="Movieticket">ตั๋วภาพยนตร์</a></h3>
             <div class="reviews-star float-left">
               16321 Lone Corral Ct, Houston TX
             </div>
           </div>
           <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-up" data-aos-delay="300">
             <a href="Kfc"><img src="public/img/img_4.jpg" alt="Image placeholder" class="img-fluid rounded"> </a>
-            <h3><a href="Kfc">$1,200</a></h3>
+            <h3><a href="Kfc">เดลิเวอรี่</a></h3>
             <div class="reviews-star float-left">
               4029 26th Ave S, Houston TX
             </div>
@@ -53,28 +53,28 @@
 
           <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-up">
             <a href="Cashcard"><img src="public/img/img_1.jpg" alt="Image placeholder" class="img-fluid rounded"> </a>
-            <h3><a href="Cashcard">$3,450</a></h3>
+            <h3><a href="Cashcard">บัตรเงินสด</a></h3>
             <div class="reviews-star float-left">
               46 Brookflower Rd, Houston TX
             </div>
           </div>
           <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-up" data-aos-delay="100">
             <a href="Barcode"><img src="public/img/img_2.jpg" alt="Image placeholder" class="img-fluid rounded"> </a>
-            <h3><a href="Barcode">$1,650</a></h3>
+            <h3><a href="Barcode">คิวอาร์โค้ด</a></h3>
             <div class="reviews-star float-left">
               2724 20th Ave N, Houston TX
             </div>
           </div>
           <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-up" data-aos-delay="200">
             <a href="Onlineshopping"><img src="public/img/img_3.jpg" alt="Image placeholder" class="img-fluid rounded"> </a>
-            <h3><a href="Onlineshopping">$3,200</a></h3>
+            <h3><a href="Onlineshopping">ช้อปออนไลน์</a></h3>
             <div class="reviews-star float-left">
               16321 Lone Corral Ct, Houston TX
             </div>
           </div>
           <div class="col-lg-3 col-md-6 visit mb-3" data-aos="fade-up" data-aos-delay="300">
             <a href="Profile"><img src="public/img/img_4.jpg" alt="Image placeholder" class="img-fluid rounded"> </a>
-            <h3><a href="Profile">$1,200</a></h3>
+            <h3><a href="Profile">โปรไฟล์</a></h3>
             <div class="reviews-star float-left">
               4029 26th Ave S, Houston TX
             </div>
